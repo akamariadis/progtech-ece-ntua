@@ -1,7 +1,7 @@
-My solutions to the exercises for the course "Programming Techniques" of the 2nd semester of the School of Electrical and Computer Engineering of the National Technical University of Athens.
+Here are my solutions to the exercises from the "Programming Techniques" course, taken during the second semester at the School of Electrical and Computer Engineering, National Technical University of Athens.
 
-Missing solutions will be added son enough!
+Any missing solutions will be added soon!
 
-Some of them may not be ideal in terms of complexity, but for sure they pass all the test cases on Grader.
+Although some solutions might not be optimized for complexity, they successfully pass all test cases on Grader.
 
-Any correction to mistakes i may have made while writing these files as well as any optimization, will be appreciated!
+I welcome any corrections for mistakes or suggestions for optimizations to improve these files!
